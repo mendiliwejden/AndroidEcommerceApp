@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423097966872",
+    "firebase_url": "https://ecommerce-ea91d.firebaseio.com",
+    "project_id": "ecommerce-ea91d",
+    "storage_bucket": "ecommerce-ea91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423097966872:android:67de343b9a7f7fa928fe6d",
+        "android_client_info": {
+          "package_name": "com.example.wejden.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423097966872-68omkad8rh3rsbv2fpvj12hhkbah8b04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wejden.ecommerce",
+            "certificate_hash": "79dcdaca4053a9e2c2f24bb8d642f8a0e38e6cf8"
+          }
+        },
+        {
+          "client_id": "423097966872-35cl61ne3mgchq31ug9c6b42qvch5n0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmlQM1PACVRzdiHUKXUUCVKJQLFsPfVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423097966872-35cl61ne3mgchq31ug9c6b42qvch5n0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
